@@ -1,9 +1,0 @@
-[X] basename
-[X] cat
-[X] echo
-[X] false
-[X] true
-[X] touch
-[X] grep
-[X] tee
-[X] wc
